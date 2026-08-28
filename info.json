@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6304a6ef60990cfbd6dfc9dc9e8cf778a53c0fe1",
+    "author": "Adam H. Sparks <adamhsparks@icloud.com>",
+    "time": "2026-07-25T05:22:08Z",
+    "files": 2,
+    "merge": false,
+    "message": "chore: reknit README\n"
+  },
+  "repo": "https://github.com/ropensci/read.abares",
+  "pkg": "read.abares",
+  "time": "2026-08-28T17:46:24Z"
+}
